@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={myphoto}  style = {{width:"50%",height:"50%"}} alt = "my photo"/>
         <p>
-          Good Luck Kevin in 2020 !
+          Good Luck !!!
         </p>
 
       </header>
