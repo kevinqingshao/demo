@@ -7,10 +7,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={myphoto}  style = {{width:"50%",height:"50%"}} alt = "my photo"/>
+        <img src={myphoto}  style = {{width:"45%",height:"45%"}} alt = "my photo"/>
         <p>
-             Kevin
-          Good Luck !!!
+          <div>Kevin</div>
+          <div>Good Luck !!!</div>
         </p>
 
       </header>
