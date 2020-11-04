@@ -8,7 +8,7 @@ function App() {
         <img src={myphoto}  style = {{width:"50%",height:"50%"}} alt = "my photo"/>
         <p>
           <div>Kevin</div>
-          <div>Good Luck !!!</div>
+          <div>Good Luck in 2020 !!!</div>
         </p>
 
       </header>
